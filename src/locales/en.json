@@ -1,0 +1,39 @@
+{
+  "app": {
+    "title": "App"
+  },
+  "email": "Email",
+  "password": "Password",
+  "login": "Login",
+  "forgot-password": "Forgot Password?",
+  "profile": "Profile",
+  "sign-out": "Sign out",
+  "image-list": "Image List",
+  "loginform": {
+    "copyright": "2021 Wecover Inc."
+  },
+  "email-is-required": "Email is required.",
+  "email-is-invalid-format": "Email is invalid format",
+  "password-is-required": "Password is required.",
+  "blank-not-allowed": "Must fill this input",
+  "error-occurred": "Error occurred.",
+  "invalid-password": "Invalid Password",
+  "email-not-found": "Email not found",
+  "upload-images": "Upload images",
+  "drop-files-here-or-click-to-upload": "Drop files here or click to upload.",
+  "only-image-file-types-are-supported-maximum-file-size-is-25mb": "Only image file types are supported. Maximum file size is 25MB.",
+  "uploaded-files": "Uploaded Files",
+  "no-files-uploaded-yet": "No files uploaded yet.",
+  "uploading": "Uploading...",
+  "close": "Close",
+  "upload-complete": "Upload Complete!",
+  "upload-failed": "Upload Failed",
+  "images": "Images",
+  "labels": "Labels",
+  "add-images": "Add Images",
+  "image-editor": "Image Editor",
+  "cannot-load-images": "Cannot load images",
+  "rect": "Rect",
+  "logout": "Logout"
+}
+
